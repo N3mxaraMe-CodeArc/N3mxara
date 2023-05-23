@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n3mxara&label=Profile%20views&color=00A300&style=flat" alt="n3mxara" /> </p>
 
+<p align="left"> <a href="https://twitter.com/nimxaranadeesha" target="blank"><img src="https://img.shields.io/twitter/follow/nimxaranadeesha?logo=twitter&style=for-the-badge" alt="nimxaranadeesha" /></a> </p>
+
 - 🌱 I’m currently working with **ReactJs , MongoDB , NodeJs**
 
 - 👨‍💻 All of my projects are available at [nimsara.dev](nimsara.dev)
