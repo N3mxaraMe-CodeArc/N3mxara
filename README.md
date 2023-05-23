@@ -1,7 +1,7 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Nimsara Jayathilaka</h1>
 <h3 align="center">I'm Fullstack Developer | UX/UI Designer | Wordpress Dev</h3>
-<img align="right" width="400" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="Coding" srcset="">
+<img align="right" width="300" src="https://media.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif" alt="Coding" srcset="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n3mxara&label=Profile%20views&color=0e75b6&style=flat" alt="n3mxara" /> </p>
 
