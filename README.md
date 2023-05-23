@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=n3mxara&label=Profile%20views&color=0e75b6&style=flat" alt="n3mxara" /> </p>
 
-- 🌱 I’m currently working with **ReactJs , MongoDB**
+- 🌱 I’m currently working with **ReactJs , MongoDB , NodeJs**
 
 - 👨‍💻 All of my projects are available at [nimsara.dev](nimsara.dev)
 
