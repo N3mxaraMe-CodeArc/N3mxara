@@ -26,7 +26,9 @@
 </p>
 <h1>----------------------</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n3mxara" alt="n3mxara" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n3mxara" alt="n3mxara" /></a> </p> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n3mxara&theme=dark_lover" alt="n3mxara" /></a> </p>
+<!-- https://github-profile-trophy.vercel.app/?username=n3mxara&theme=dark_lover -->
 
 
 <h3 align="left">Languages and Tools:</h3>
