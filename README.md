@@ -27,7 +27,7 @@
 <h1>----------------------</h1>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n3mxara" alt="n3mxara" /></a> </p> -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" alt="n3mxara" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n3mxara&theme=juicyfresh" alt="n3mxara" /></a> </p>
 <!-- https://github-profile-trophy.vercel.app/?username=n3mxara&theme=dark_lover -->
 
 
